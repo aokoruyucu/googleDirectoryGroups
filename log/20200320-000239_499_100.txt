@@ -1,0 +1,72 @@
+{"response":"success","name":"HART511-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"HART511-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"VA502-I-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"VA502-I-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"FIN829-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"FIN829-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"FIN599-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"FIN599-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"VA502-B-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"VA502-B-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"VA502-D-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"VA502-D-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"MGMT506-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MGMT506-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"VA502-C-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"VA502-C-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"GR501S-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"GR501S-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"VA502-G-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"VA502-G-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"MGMT508-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MGMT508-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"ARA520-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"ARA520-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"MGMT945-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MGMT945-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"ORG625-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"ORG625-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"TUR511-ABC-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"TUR511-ABC-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"MATH58005-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MATH58005-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"AR604-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"AR604-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","name":"AR608-201902_inst","fonksiyon":"creategroup"},
+{"response":"success","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"AR608-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"POLS399-201902_inst","fonksiyon":"creategroup"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"POLS399-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"GR501M-201902_inst","fonksiyon":"creategroup"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"GR501M-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"POLS553-201902_inst","fonksiyon":"creategroup"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"POLS553-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"MKTG807-201902_inst","fonksiyon":"creategroup"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MKTG807-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"MKTG823-201902_inst","fonksiyon":"creategroup"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MKTG823-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"MKTG856-201902_inst","fonksiyon":"creategroup"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"onlinecourses@sabanciuniv.edu","rol":"OWNER","name":"MKTG856-201902_inst","fonksiyon":"addmember"},
+

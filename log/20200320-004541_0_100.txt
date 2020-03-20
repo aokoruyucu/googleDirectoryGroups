@@ -1,0 +1,205 @@
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"aoncu@sabanciuniv.edu","rol":"MEMBER","name":"MGMT901-KA-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"myesildere@sabanciuniv.edu","rol":"MEMBER","name":"MGMT964-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"timothy.kiessling@sabanciuniv.edu","rol":"MEMBER","name":"MGMT999-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"bgemalmaz@sabanciuniv.edu","rol":"MEMBER","name":"MGMT911-KA-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"nilsson@sabanciuniv.edu","rol":"MEMBER","name":"ACC902-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"kkilic@sabanciuniv.edu","rol":"MEMBER","name":"MGMT940-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ozgurdemirtas@sabanciuniv.edu","rol":"MEMBER","name":"FIN902-KA-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"timothy.kiessling@sabanciuniv.edu","rol":"MEMBER","name":"MGMT905-KA-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"mbayazit@sabanciuniv.edu","rol":"MEMBER","name":"ORG902-KA-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"mbayazit@sabanciuniv.edu","rol":"MEMBER","name":"MGMT953-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"mbayazit@sabanciuniv.edu","rol":"MEMBER","name":"MGMT980-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"aoncu@sabanciuniv.edu","rol":"MEMBER","name":"MGMT901-TU-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"bgemalmaz@sabanciuniv.edu","rol":"MEMBER","name":"MGMT911-TU-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"mbayazit@sabanciuniv.edu","rol":"MEMBER","name":"ORG902-TU-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ozgurdemirtas@sabanciuniv.edu","rol":"MEMBER","name":"FIN902-TU-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"timothy.kiessling@sabanciuniv.edu","rol":"MEMBER","name":"MGMT905-TU-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ekilic@sabanciuniv.edu","rol":"MEMBER","name":"FIN910-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"daniel.calvey@sabanciuniv.edu","rol":"MEMBER","name":"GR555S-C-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ahuantmen@sabanciuniv.edu","rol":"MEMBER","name":"HART413_513-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"oyazicigil@sabanciuniv.edu","rol":"MEMBER","name":"VA490_580-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"zaremba@sabanciuniv.edu","rol":"MEMBER","name":"VA502-F-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ysaygin@sabanciuniv.edu","rol":"MEMBER","name":"CS525-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"baburoglu@sabanciuniv.edu","rol":"MEMBER","name":"AR601-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"kristinsendur@sabanciuniv.edu","rol":"MEMBER","name":"GR502M-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"kocabiyikoglua@sabanciuniv.edu","rol":"MEMBER","name":"BAN502-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"akhavan@sabanciuniv.edu","rol":"MEMBER","name":"BAN504-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"dasci@sabanciuniv.edu","rol":"MEMBER","name":"BAN505-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"mehmet.yildiz@sabanciuniv.edu","rol":"MEMBER","name":"ME562-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"tcender@sabanciuniv.edu","rol":"MEMBER","name":"MFG58000-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"kristinsendur@sabanciuniv.edu","rol":"MEMBER","name":"GR503E-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"cuneyt@sabanciuniv.edu","rol":"MEMBER","name":"MKTG905-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"yusufsoner@sabanciuniv.edu","rol":"MEMBER","name":"MKTG907-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ryolalan@sabanciuniv.edu","rol":"MEMBER","name":"FIN913-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ahmetdemirelli@sabanciuniv.edu","rol":"MEMBER","name":"DA512-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"berrin@sabanciuniv.edu","rol":"MEMBER","name":"DA514-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"durahim@sabanciuniv.edu","rol":"MEMBER","name":"DA516-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"inancarin@sabanciuniv.edu","rol":"MEMBER","name":"DA517-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"kristinsendur@sabanciuniv.edu","rol":"MEMBER","name":"GR503S-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"simsir@sabanciuniv.edu","rol":"MEMBER","name":"MRES700-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"m-gulgun@sabanciuniv.edu","rol":"MEMBER","name":"ENS205-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"sendur@sabanciuniv.edu","rol":"MEMBER","name":"ENS206-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"bbediz@sabanciuniv.edu","rol":"MEMBER","name":"ENS214-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"mkucuk@sabanciuniv.edu","rol":"MEMBER","name":"TLL102-A4B3F1-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"zeynep@sabanciuniv.edu","rol":"MEMBER","name":"CIP101-ABC-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"eken@sabanciuniv.edu","rol":"MEMBER","name":"ENG101-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"erolemre@sabanciuniv.edu","rol":"MEMBER","name":"SPS101-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"eralpdenktas@sabanciuniv.edu","rol":"MEMBER","name":"MFIN599-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"invalid\",\n    \"message\": \"Invalid Input: memberKey\"\n   }\n  ],\n  \"code\": 400,\n  \"message\": \"Invalid Input: memberKey\"\n }\n}\n","email":"","rol":"MEMBER","name":"MFIN532-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"tolgademir@sabanciuniv.edu","rol":"MEMBER","name":"MFIN507-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"yatilgan@sabanciuniv.edu","rol":"MEMBER","name":"MFIN562-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ata.bertay@sabanciuniv.edu","rol":"MEMBER","name":"MFIN559-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"tolgademir@sabanciuniv.edu","rol":"MEMBER","name":"MFIN600-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"timothy.kiessling@sabanciuniv.edu","rol":"MEMBER","name":"MGMT420-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"raunal@sabanciuniv.edu","rol":"MEMBER","name":"ANTH251-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"akhavan@sabanciuniv.edu","rol":"MEMBER","name":"MGMT203-B-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"kosara@sabanciuniv.edu","rol":"MEMBER","name":"ME309-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"melitas@sabanciuniv.edu","rol":"MEMBER","name":"ME437-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"vpatoglu@sabanciuniv.edu","rol":"MEMBER","name":"ME403-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"saclioglu@sabanciuniv.edu","rol":"MEMBER","name":"NS200-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"kkilic@sabanciuniv.edu","rol":"MEMBER","name":"MGMT840-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"remzi@sabanciuniv.edu","rol":"MEMBER","name":"MGMT810-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"evrimakdogu@sabanciuniv.edu","rol":"MEMBER","name":"FIN802-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"aoncu@sabanciuniv.edu","rol":"MEMBER","name":"MGMT801-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"kivilcimdd@sabanciuniv.edu","rol":"MEMBER","name":"MGMT808-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"remzi@sabanciuniv.edu","rol":"MEMBER","name":"MGMT817-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"bgemalmaz@sabanciuniv.edu","rol":"MEMBER","name":"MGMT811-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"sezer@sabanciuniv.edu","rol":"MEMBER","name":"MATH306-AB-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"eralpd@sabanciuniv.edu","rol":"MEMBER","name":"ENS309-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"gunduz@sabanciuniv.edu","rol":"MEMBER","name":"IE409-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"eozlu@sabanciuniv.edu","rol":"MEMBER","name":"IE401-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"catay@sabanciuniv.edu","rol":"MEMBER","name":"IE304-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"syesilyurt@sabanciuniv.edu","rol":"MEMBER","name":"ME415_515-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"tekin@sabanciuniv.edu","rol":"MEMBER","name":"ENS201-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"aqureshi@sabanciuniv.edu","rol":"MEMBER","name":"MATH204-A-201902_inst","fonksiyon":"addmember"},
+{"response":"success","email":"nanbar@sabanciuniv.edu","rol":"MEMBER","name":"MATH204-A-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"burakkocuk@sabanciuniv.edu","rol":"MEMBER","name":"IE311-AB-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"bbediz@sabanciuniv.edu","rol":"MEMBER","name":"ME302-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"cmayack@sabanciuniv.edu","rol":"MEMBER","name":"NS216-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"syesilyurt@sabanciuniv.edu","rol":"MEMBER","name":"ME420_520-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ali.ergenc@sabanciuniv.edu","rol":"MEMBER","name":"ME305-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"mlavrauw@sabanciuniv.edu","rol":"MEMBER","name":"MATH311-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"inan@sabanciuniv.edu","rol":"MEMBER","name":"CS302-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"emre.akgunduz@sabanciuniv.edu","rol":"MEMBER","name":"ECON204-CD-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"neriman.ulsever@sabanciuniv.edu","rol":"MEMBER","name":"MGMT491-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"huriye.yeroz@sabanciuniv.edu","rol":"MEMBER","name":"MGMT402-AB-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"gizemoztok@sabanciuniv.edu","rol":"MEMBER","name":"FIN406-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"cavide@sabanciuniv.edu","rol":"MEMBER","name":"ORG401-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"nilaydm@sabanciuniv.edu","rol":"MEMBER","name":"MATH102-AB-201902_inst","fonksiyon":"addmember"},
+{"response":"success","email":"canankasikci@sabanciuniv.edu","rol":"MEMBER","name":"MATH102-AB-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"adagideli@sabanciuniv.edu","rol":"MEMBER","name":"NS101-ABCD-201902_inst","fonksiyon":"addmember"},
+{"response":"success","email":"zeynepdelen@sabanciuniv.edu","rol":"MEMBER","name":"NS101-ABCD-201902_inst","fonksiyon":"addmember"},
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"melitas@sabanciuniv.edu","rol":"MEMBER","name":"NS101-ABCD-201902_inst","fonksiyon":"addmember"},
+{"response":"success","email":"aslihanunsal@sabanciuniv.edu","rol":"MEMBER","name":"NS101-ABCD-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ezgiakpinar@sabanciuniv.edu","rol":"MEMBER","name":"MKTG528-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"alicoskun@sabanciuniv.edu","rol":"MEMBER","name":"ACC404-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"nihatk@sabanciuniv.edu","rol":"MEMBER","name":"OPIM302-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ilopezcr@sabanciuniv.edu","rol":"MEMBER","name":"ECON202-A-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"fulengin@sabanciuniv.edu","rol":"MEMBER","name":"MGMT203-A-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ersing@sabanciuniv.edu","rol":"MEMBER","name":"NS222-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ysarikaya@sabanciuniv.edu","rol":"MEMBER","name":"MATH203-AB-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ekalemci@sabanciuniv.edu","rol":"MEMBER","name":"ENS303-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ttunc@sabanciuniv.edu","rol":"MEMBER","name":"IE402-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"nggogus@sabanciuniv.edu","rol":"MEMBER","name":"MATH202-201902_inst","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"duplicate\",\n    \"message\": \"Member already exists.\"\n   }\n  ],\n  \"code\": 409,\n  \"message\": \"Member already exists.\"\n }\n}\n","email":"ezgi.turkseven@sabanciuniv.edu","rol":"MEMBER","name":"IE305-AB-201902_inst","fonksiyon":"addmember"},
+
+{"response":"success","email":"ebudak@sabanciuniv.edu","rol":"MEMBER","name":"IE309-201902_inst","fonksiyon":"addmember"},
+

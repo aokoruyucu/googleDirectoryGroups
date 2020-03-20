@@ -1,0 +1,70 @@
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"ceydapektas@sabanciuniv.edu","rol":"MEMBER","name":"VA502-I-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"muraterden@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"mustafakaan@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"hanberdiyev@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"baharbaltaci@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"muras@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"runal@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"metehanunal@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"cakiremre@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"erkanbayraktar@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"ibrahimmurad@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"hozturkmen@sabanciuniv.edu","rol":"MEMBER","name":"FIN829-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"buyukelyasatif@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"tahabuyukabaci@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"mustafabilgin@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"baharbaltaci@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"gulseverertan@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"bdonmez@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"kuznetcova@sabanciuniv.edu","rol":"MEMBER","name":"FIN599-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"hazalbagci@sabanciuniv.edu","rol":"MEMBER","name":"VA502-B-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"dikilitas@sabanciuniv.edu","rol":"MEMBER","name":"VA502-D-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"sanap@sabanciuniv.edu","rol":"MEMBER","name":"MGMT506-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"gulseverertan@sabanciuniv.edu","rol":"MEMBER","name":"MGMT506-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"nisantezer@sabanciuniv.edu","rol":"MEMBER","name":"MGMT506-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"bece@sabanciuniv.edu","rol":"MEMBER","name":"VA502-C-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"cagdaskara@sabanciuniv.edu","rol":"MEMBER","name":"GR501S-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"tugruls@sabanciuniv.edu","rol":"MEMBER","name":"VA502-G-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"ikactioglu@sabanciuniv.edu","rol":"MEMBER","name":"VA502-G-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"nisantezer@sabanciuniv.edu","rol":"MEMBER","name":"MGMT508-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"gizemhenden@sabanciuniv.edu","rol":"MEMBER","name":"ARA520-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"tugcekirmaci@sabanciuniv.edu","rol":"MEMBER","name":"ARA520-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"muyaroglu@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"sibelsahin@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"gulek@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"kilicismail@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"epurdeloglu@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"aktan@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"alevtina@sabanciuniv.edu","rol":"MEMBER","name":"MGMT945-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"mahsanasibi@sabanciuniv.edu","rol":"MEMBER","name":"ORG625-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"bakyuz@sabanciuniv.edu","rol":"MEMBER","name":"ORG625-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"eldar@sabanciuniv.edu","rol":"MEMBER","name":"ORG625-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"kuznetcova@sabanciuniv.edu","rol":"MEMBER","name":"TUR511-ABC-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"nesibea@sabanciuniv.edu","rol":"MEMBER","name":"MATH58005-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"gamzed@sabanciuniv.edu","rol":"MEMBER","name":"AR604-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"tugbag@sabanciuniv.edu","rol":"MEMBER","name":"AR604-201902_stu","fonksiyon":"addmember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"aaksoy@sabanciuniv.edu","rol":"MEMBER","name":"AR604-201902_stu","fonksiyon":"addmember"},
+
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","email":"tugbag@sabanciuniv.edu","rol":"MEMBER","name":"AR608-201902_stu","fonksiyon":"addmember"},
+
+
+
+
+
+
+
